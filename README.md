@@ -1,4 +1,4 @@
-# Basic Calculator
+# Simple Calculator
 
 ## Overview:
 - A web-based tool that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
