@@ -10,5 +10,5 @@
 - The = button performs the calculation and displays the result.
 - The AC button clears the display.
 
-## Website Link:
+## Deployed Link:
 https://jashmit918.github.io/Calculator/
