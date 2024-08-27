@@ -2,7 +2,7 @@
 
 ## Overview:
 - A web-based tool that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
-- It is designed with a clean and responsive user interface using *HTML* and *CSS*.
+- It is designed with a clean and responsive user interface using *HTML*, *CSS* and *JS*.
 
 ## User Interface:
 - The calculator has a display area to show the current input and results.
